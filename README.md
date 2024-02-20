@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Minju)](https://solved.ac/nampink4322/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nampink4322)](https://solved.ac/nampink4322/)
 
 <!--
 **namminju/namminju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
