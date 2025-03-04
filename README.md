@@ -43,7 +43,7 @@
 ### 🌟 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namminju&theme=radical" width="50%">
+ <img src="https://github-readme-stats.vercel.app/api?username=남민주&show_icons=true&theme=radical" width="48%">
 </p>
 
 ---
