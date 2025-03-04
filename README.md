@@ -22,6 +22,10 @@
 #### **Tech Stack**
 - **Frontend:** React.js, Flutter
 
+#### **Version Control & Collaboration**
+- **Version Control:** Git, GitHub
+- **Collaboration:** Notion, Figma
+
 #### **Learning**
 - 📖 Spring Boot 기반 백엔드 개발 및 서버 운영 공부 중
 - 💡 프론트엔드 프로젝트 경험을 통해 다양한 기술 적용
@@ -36,11 +40,10 @@
 
 ---
 
-### 🌟 GitHub Stats
+### 🌟 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namminju&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namminju&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namminju&theme=radical" width="50%">
 </p>
 
 ---
