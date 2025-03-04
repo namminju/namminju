@@ -1,11 +1,5 @@
 <h1 align="center">Hi there, I'm 남민주 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/namminju">
-    <img src="https://img.shields.io/github/followers/namminju?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
